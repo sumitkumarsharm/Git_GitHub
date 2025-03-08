@@ -1,0 +1,12 @@
+hello this is my v0
+
+git init -> is folder ko track krna chalu kro init kret hi file ke aage U show krega iska mtlb file untracked 
+
+git add <file Name> ->  git bhai is file ko bhi add kro 
+
+git add . --> git bhai jitne bhi file and folder hai sabko add kro add krte hi file ke aage A show krega is mtlb file added
+
+Git Status --> ye btata hai ki kon sa file tracked hai or kon si untracked
+
+cat <file name> --> Read content in the file
+
