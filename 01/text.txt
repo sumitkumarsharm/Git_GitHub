@@ -8,7 +8,10 @@ git add . --> git bhai jitne bhi file and folder hai sabko add kro add krte hi f
 
 Git Status --> ye btata hai ki kon sa file tracked hai or kon si untracked
 
-cat <file name> --> Read content in the file
+git cat <file name> --> Read content in the file
+git cat -t <commit id> --> ye btata hai ki kya hai commit hai ya nhi hai
+git cat -s <commit id> --> ye btata hai ki kya hai ki file ki size kitni hai
+git cat -p <commit id> --> ye btata hai ki kya hai ki file me content kya hai content lekr aa jayega
 
 git commit -m "Message what you want to add this in  git " 
 
