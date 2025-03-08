@@ -23,4 +23,5 @@ ex - commit 4a4602d0223ad78bf06a1d7e7f92b54681cbbd1
 Author: S******t S****a <s**********@gmail.com>
 Date:   Sat Mar 8 13:04:01 2025 +0530
 
+This is git tutorial
 git diff --> hame ye btata hai ki pahle or abhi wwake folder me kya kya  huaa hai
