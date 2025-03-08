@@ -14,8 +14,10 @@ git commit -m "Message what you want to add this in  git "
 
 har ek commit ka apna ek id hoti hai jab hum commit krte hai tab id milta hai
 
-git log --> ham jitni bhi commit kiye huye hai unki id or time date and Author sab mil jata hai 
+git log --> ham jitni bhi commit kiye huye hai unki id or time date and Author bhi batata hai sab mil jata hai 
 
 ex - commit 4a4602d0223ad78bf06a1d7e7f92b54681cbbd1 
 Author: S******t S****a <s**********@gmail.com>
 Date:   Sat Mar 8 13:04:01 2025 +0530
+
+git diff --> hame ye btata hai ki pahle or abhi wwake folder me kya kya  huaa hai
